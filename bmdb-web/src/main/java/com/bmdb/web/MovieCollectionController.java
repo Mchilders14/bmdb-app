@@ -24,7 +24,7 @@ import com.bmdb.db.UserRepo;
 
 @CrossOrigin
 @RestController
-@RequestMapping("/api/movie-collection")
+@RequestMapping("/api/movie-collections")
 public class MovieCollectionController {
 	
 	@Autowired
